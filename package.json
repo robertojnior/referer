@@ -1,0 +1,25 @@
+{
+  "name": "referer",
+  "version": "1.0.0",
+  "description": "Refer-A-Friend REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertojnior/referer.git"
+  },
+  "keywords": [],
+  "author": "Roberto <robertojunior085@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/robertojnior/referer/issues"
+  },
+  "homepage": "https://github.com/robertojnior/referer#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "typescript": "^5.7.3"
+  }
+}

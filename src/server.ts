@@ -1,7 +1,7 @@
 import { join } from 'node:path';
 
-import Fastify from 'fastify';
 import Autoload from '@fastify/autoload';
+import Fastify from 'fastify';
 
 import { schema } from './config/schema';
 
